@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "eatinganimationid:item/baked_potato_eating_2"
+    "layer0": "eatinganimationid:items/potato_baked_eating_2"
   }
 }
